@@ -10,7 +10,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 import java.util.prefs.AbstractPreferences
 
 class MainActivity : AppCompatActivity() {
-//
+///
     // Module-level variable
     lateinit var countViewModel: CountViewModel
 
